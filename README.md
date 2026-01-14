@@ -90,11 +90,6 @@ Increasing threads reduces execution time — until overhead dominates
 
 Amdahl/Gustafson laws predict speedup limits
 
-📸 Screenshot (Optional)
-
-Add an image here later:
-
-screenshots/result.png
 
 🤝 Contributions
 
