@@ -62,7 +62,7 @@ pip install streamlit opencv-python numpy plotly
 
 Run Streamlit:
 
-streamlit run app.py
+streamlit run image.py
 
 
 Upload a large image (4K recommended) and test different:
